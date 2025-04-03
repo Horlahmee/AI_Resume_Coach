@@ -1,1 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Data files
+*.jsonl
 venv/
